@@ -43,7 +43,7 @@ This project conducts an exploratory data analysis (EDA) of 3,000 global job pro
 
 ## Dataset
 
-**Source:** [AI Impact on Jobs 2030 — Kaggle](https://www.kaggle.com/)
+**Source:** [https://www.kaggle.com/datasets/muhammadwaqas023/ai-impact-in-future-on-jobs-market-in-2030?resource=download]
 
 | Field | Description |
 |---|---|
